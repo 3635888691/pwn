@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Python 虚拟环境
+.venv/
+venv/
+
+# Node.js 依赖
+node_modules/
+
+# 编辑器本地配置
+.idea/
+.vscode/
+
+# 一般日志及系统杂项
+*.log
+.DS_Store
+Thumbs.db
